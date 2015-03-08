@@ -1,0 +1,45 @@
+finish
+C#
+
+C# language is intended to be a simple, modern, general-purpose, object-oriented programming language.
+It is designed to balance power (C ++) with the possibility of rapid development (Visual Basic and Java).
+Of the C # language on the .NET platform can be developed extremely diverse software, such as office 
+applications, web applications, web sites, desktop applications, multimedia Internet applications, mobile 
+applications, different types of games and many others.
+
+Java
+
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both 
+are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, 
+both use garbage-collection, and both are "curly brace languages".Programs written in Java, can run on many 
+different computer architectures and operating systems unlike C #. Cons of the language is the high use of 
+RAM and is also slow.
+
+C
+
+C is the oldest and most widely used language, providing the building blocks for other popular languages, 
+such as C#, Java, JavaScript and PythonA programmer�s productivity under pure C is many times lower 
+compared to their productivity under modern general-purpose programming languages like C#.
+
+C++
+Start
+C++ is acceptable when you have to program applications that require very close work with the hardware 
+or that have special performance requirements (like 3D games). For all other purposes (like web apps
+development or business software) C++ is phenomenally inadequate. The C++ language lost its popularity 
+mainly because of the inability to quickly write quality software with it. The productivity of C++ 
+programmers is many times lower than C#�s.
+
+PHP
+
+With regards to programing languages popularity, besides C# and Java, another widely used language is PHP. 
+It is suitable for developing small web sites and web applications, but it gives rise to serious difficulties 
+when implementing large and complicated software systems. In the software industry PHP is used first and foremost 
+for small projects, because it can easily lead developers into writing code that is bad, disorganized and hard to 
+maintain, making it inconvenient for more substantial projects.
+
+Python 
+
+Python is a widely used general-purpose, high-level programming language.The language provides constructs intended
+to enable clear programs on both a small and large scale.Strengths Python are good readability and overall philosophy.
+Cons of languages are despite the relatively easy-to-use libraries, they are poorly designed and written and have 
+decent documentation.
