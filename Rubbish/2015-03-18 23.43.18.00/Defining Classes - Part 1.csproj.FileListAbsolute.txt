@@ -1,0 +1,2 @@
+C:\Users\softwareacademy\Desktop\Defining Classes - Part 1\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe.config
+D:\TelerikHomeworks\TelerikAcademy\C# OOP\Defining Classes - Part 1\bin\Debug\Defining Classes - Part 1.exe.config
