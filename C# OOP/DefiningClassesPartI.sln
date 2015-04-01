@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defining Classes - Part 1", "Defining Classes - Part 1\Defining Classes - Part 1.csproj", "{33EF806F-CA45-4C53-8849-AE98F052DFF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClassesPartI", "Defining Classes - Part 1\DefiningClassesPartI.csproj", "{33EF806F-CA45-4C53-8849-AE98F052DFF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
